@@ -1,7 +1,7 @@
 Package.describe({
   name: "itsahappymedium:youtube-iframe-api",
   summary: "Youtube Iframe API",
-  version: "1.4.0",
+  version: "1.4.1",
   git: "http://github.com/itsahappymedium/meteor-youtube-iframe-api.git"
 });
 
